@@ -1,0 +1,9 @@
+Submission package contents
+- app.py: Streamlit dashboard
+- data/european_bank.csv: source dataset copy
+- src/analysis.py: reproducible validation and segmentation checks
+- reports/research_paper.docx: research paper
+- reports/executive_summary.docx: executive summary
+- reports/analysis_notes.md: actual dataset findings and assumptions
+- README.md: setup, run and deployment instructions
+- requirements.txt: Python dependencies
